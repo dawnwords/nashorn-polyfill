@@ -1,6 +1,6 @@
 {
   "name": "nashorn-babel-polyfill",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Polyfill for Nashorn Script Engine",
   "main": "index.js",
   "repository": "https://github.com/shendepu/nashorn-polyfill.git",

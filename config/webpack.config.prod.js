@@ -12,7 +12,7 @@ const webpackConfig = {
     ],
     extensions : ['.js', '.jsx', '.json']
   },
-  entry: paths.base('index.js'),
+  entry:['babel-polyfill', paths.base('index.js')],
   output: {
     path: paths.build(),
     filename: 'nashorn-polyfill.webpack.js'

@@ -181,7 +181,7 @@ global._nashornPolyfill = true
 // import 'core-js/modules/web.immediate'
 // import 'core-js/modules/web.dom.iterable'
 
-import 'babel-polyfill/dist/polyfill'
+//import 'babel-polyfill/dist/polyfill'
 import './lib/blob-polyfill'
 import './lib/xml-http-request-polyfill'
 import URLSearchParams from 'url-search-params'
